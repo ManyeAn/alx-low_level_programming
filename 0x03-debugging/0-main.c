@@ -6,10 +6,11 @@
  */
 
 int main(void)
+
 {
 int i;
 
-i = 25;
+i = 0;
 positive_or_negative(i);
 
 return (0);
